@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315454773010",
+    "project_id": "coffie-c4340",
+    "storage_bucket": "coffie-c4340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315454773010:android:61df2e44f0621dcd49c5cb",
+        "android_client_info": {
+          "package_name": "com.example.coffie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315454773010-puvrurra2g4nt4bt38oc5srjbl6er4ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBYZd8W9LbGaXcZgyUiwyMKgV0vEy-uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315454773010-puvrurra2g4nt4bt38oc5srjbl6er4ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
